@@ -34,7 +34,7 @@ Technologies:
   Definition:
     - AIモデルへの入力を提供することで、モデルが生成できる応答セットを特定・制約する技術
     - 入力はモデルを改善することなく、望ましい結果を引き出す
-    - "インコンテキスト学習"とも呼ばれ、モデルをより具体的に案内するための例を提供する
+    - インコンテキスト学習とも呼ばれ、モデルをより具体的に案内するための例を提供する
   Importance:
     - ビジネスの結果への影響を管理するための要素
     - 入力の微妙な変化に対して極めて敏感で、微調整で出力の質を変化させることができる
@@ -1045,7 +1045,6 @@ Technologies:
     - Mindy Support
     - Scale AI
     - Snorkel AI
-Technologies:
 - Title: Computer Vision
   Benefit Rating: Transformational
   Market Penetration: "20% - 50%"
