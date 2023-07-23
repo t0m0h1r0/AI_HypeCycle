@@ -24,6 +24,7 @@ YAMLのDefinition、Importance、Business Impact、Drivers、Obstacles、及びR
 YAMLのDefinition、Importance、Business Impact、Drivers、Obstacles、及びRecommendationsの文章はリード文形式で簡潔に記述してください。
 YAMLのDefinition、Importance、Business Impact、Drivers、Obstacles、及びRecommendationsの文章ではYAML構造を破壊する恐れがあるためコロン(「：」も)の使用は避けて要約や作文をしてください。
 '''
+
 #YAMLの構造
 Technologies:
 - Title: <技術名1>
