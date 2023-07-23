@@ -38,7 +38,7 @@ Technologies:
 
 - Title: Prompt Engineering
   Benefit Rating: High
-  Market Penetration: "1% - 5%"
+  Market Penetration: "1% to 5%"
   Maturity: Emerging
   Definition:
     - Inputs, in the form of text or images, are provided to generative AI models to specify and confine the set of responses.
@@ -75,7 +75,7 @@ Technologies:
 
 - Title: First-Principles AI
   Benefit Rating: Transformational
-  Market Penetration: "1% - 5%"
+  Market Penetration: "1% to 5%"
   Maturity: Emerging
   Definition:
     - Involves physical and analog principles, governing laws, and domain knowledge in AI models.
@@ -181,7 +181,7 @@ Technologies:
 
 - Title: AI Engineering
   Benefit Rating: High
-  Market Penetration: "1% - 5%"
+  Market Penetration: "1% to 5%"
   Maturity: Emerging
   Definition:
     - AI engineering is foundational for enterprise delivery of AI solutions at scale.
@@ -220,7 +220,7 @@ Technologies:
 
 - Title: AI Simulation
   Benefit Rating: High
-  Market Penetration: "1% - 5%"
+  Market Penetration: "1% to 5%"
   Maturity: Emerging
   Definition:
     - AI simulation is the combined application of AI and simulation technologies.
@@ -299,7 +299,7 @@ Technologies:
 
 - Title: Causal AI
   Benefit Rating: High
-  Market Penetration: "1% - 5%"
+  Market Penetration: "1% to 5%"
   Maturity: Emerging
   Definition:
     - Causal AI utilizes cause-and-effect relationships.
@@ -339,7 +339,7 @@ Technologies:
 
 - Title: Decision Intelligence
   Benefit Rating: Transformational
-  Market Penetration: "5% - 20%"
+  Market Penetration: "5% to 20%"
   Maturity: Emerging
   Definition:
     - A practical discipline that advances decision making by understanding and engineering how decisions are made.
@@ -405,7 +405,7 @@ Technologies:
 
 - Title: Data-Centric AI
   Benefit Rating: High
-  Market Penetration: "1% - 5%"
+  Market Penetration: "1% to 5%"
   Maturity: Embryonic
   Definition:
     - An approach focusing on enhancing and enriching training data.
@@ -444,7 +444,7 @@ Technologies:
 
 - Title: Operational AI Systems
   Benefit Rating: High
-  Market Penetration: "1% - 5%"
+  Market Penetration: "1% to 5%"
   Maturity: Emerging
   Definition:
     - OAISys integrates DataOps, ModelOps, MLOps and deployment services to deliver enterprise-grade governance.
@@ -484,7 +484,7 @@ Technologies:
 
 - Title: AI TRiSM
   Benefit Rating: High
-  Market Penetration: "5% - 20%"
+  Market Penetration: "5% to 20%"
   Maturity: Adolescent
   Definition:
     - Ensures AI model governance, trustworthiness, fairness, reliability, robustness, efficacy and data protection.
@@ -604,7 +604,7 @@ Technologies:
 
 - Title: Smart Robots
   Benefit Rating: High
-  Market Penetration: "1% - 5%"
+  Market Penetration: "1% to 5%"
   Maturity: Emerging
   Definition:
     - An AI-powered machine designed to autonomously execute one or more physical tasks.
@@ -690,7 +690,7 @@ Technologies:
 
 - Title: Generative AI
   Benefit Rating: Transformational
-  Market Penetration: "1% - 5%"
+  Market Penetration: "1% to 5%"
   Maturity: Adolescent
   Definition:
     - Uses large repositories of original source content to create new versions of content, strategies, designs, and methods.
@@ -730,7 +730,7 @@ Technologies:
 
 - Title: Synthetic Data
   Benefit Rating: High
-  Market Penetration: "1% - 5%"
+  Market Penetration: "1% to 5%"
   Maturity: Emerging
   Definition:
     - Artificially generated data used as a real data proxy.
@@ -770,7 +770,7 @@ Technologies:
 
 - Title: Edge AI
   Benefit Rating: High
-  Market Penetration: "20% - 50%"
+  Market Penetration: "20% to 50%"
   Maturity: Adolescent
   Definition:
     - The use of AI techniques embedded in non-IT products, IoT endpoints, gateways and edge servers.
@@ -809,7 +809,7 @@ Technologies:
 
 - Title: ModelOps
   Benefit Rating: High
-  Market Penetration: "1% - 5%"
+  Market Penetration: "1% to 5%"
   Maturity: Emerging
   Definition:
     - Primarily focuses on end-to-end governance and life cycle management of various decision models.
@@ -853,7 +853,7 @@ Technologies:
 
 - Title: Knowledge Graphs
   Benefit Rating: High
-  Market Penetration: "5% - 20%"
+  Market Penetration: "5% to 20%"
   Maturity: Adolescent
   Definition:
     - Machine-readable representations of the physical and digital worlds.
@@ -892,7 +892,7 @@ Technologies:
 
 - Title: AI Maker and Teaching Kits
   Benefit Rating: High
-  Market Penetration: "20% - 50%"
+  Market Penetration: "20% to 50%"
   Maturity: Early mainstream
   Definition:
     - Applications and Software Development Kits (SDKs) abstracting data science platforms and analytic libraries.
@@ -1017,7 +1017,7 @@ Technologies:
 
 - Title: Intelligent Applications
   Benefit Rating: Transformational
-  Market Penetration: "5% - 20%"
+  Market Penetration: "5% to 20%"
   Maturity: Adolescent
   Definition:
     - Intelligent applications use learned adaptation to respond autonomously.

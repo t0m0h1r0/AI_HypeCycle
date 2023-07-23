@@ -38,7 +38,7 @@ Technologies:
 
 - Title: Prompt Engineering
   Benefit Rating: High
-  Market Penetration: 1% - 5%
+  Market Penetration: 1% to 5%
   Maturity: Emerging
   Definition:
   - テキストまたは画像の形で入力が生成AIモデルに提供され、応答のセットを指定し、限定する。
@@ -75,7 +75,7 @@ Technologies:
 
 - Title: First-Principles AI
   Benefit Rating: Transformational
-  Market Penetration: 1% - 5%
+  Market Penetration: 1% to 5%
   Maturity: Emerging
   Definition:
   - AIモデルには、物理的・アナログ的原理、支配法則、ドメイン知識が含まれる。
@@ -181,7 +181,7 @@ Technologies:
 
 - Title: AI Engineering
   Benefit Rating: High
-  Market Penetration: 1% - 5%
+  Market Penetration: 1% to 5%
   Maturity: Emerging
   Definition:
   - AIエンジニアリングは、企業がAIソリューションを大規模に提供するための基盤である。
@@ -220,7 +220,7 @@ Technologies:
 
 - Title: AI Simulation
   Benefit Rating: High
-  Market Penetration: 1% - 5%
+  Market Penetration: 1% to 5%
   Maturity: Emerging
   Definition:
   - AIシミュレーションは、AIとシミュレーション技術を組み合わせたアプリケーションである。
@@ -299,7 +299,7 @@ Technologies:
 
 - Title: Causal AI
   Benefit Rating: High
-  Market Penetration: 1% - 5%
+  Market Penetration: 1% to 5%
   Maturity: Emerging
   Definition:
   - コーザルAIは因果関係を利用する。
@@ -339,7 +339,7 @@ Technologies:
 
 - Title: Decision Intelligence
   Benefit Rating: Transformational
-  Market Penetration: 5% - 20%
+  Market Penetration: 5% to 20%
   Maturity: Emerging
   Definition:
   - 意思決定がどのように行われるかを理解し、エンジニアリングすることで、意思決定を進歩させる実践的な学問分野。
@@ -405,7 +405,7 @@ Technologies:
 
 - Title: Data-Centric AI
   Benefit Rating: High
-  Market Penetration: 1% - 5%
+  Market Penetration: 1% to 5%
   Maturity: Embryonic
   Definition:
   - 学習データを強化し、充実させることに重点を置いたアプローチ。
@@ -444,7 +444,7 @@ Technologies:
 
 - Title: Operational AI Systems
   Benefit Rating: High
-  Market Penetration: 1% - 5%
+  Market Penetration: 1% to 5%
   Maturity: Emerging
   Definition:
   - OAISysは、DataOps、ModelOps、MLOps、デプロイメントサービスを統合し、エンタープライズグレードのガバナンスを実現します。
@@ -484,7 +484,7 @@ Technologies:
 
 - Title: AI TRiSM
   Benefit Rating: High
-  Market Penetration: 5% - 20%
+  Market Penetration: 5% to 20%
   Maturity: Adolescent
   Definition:
   - AIモデルのガバナンス、信頼性、公平性、信頼性、堅牢性、有効性、データ保護を保証します。
@@ -604,7 +604,7 @@ Technologies:
 
 - Title: Smart Robots
   Benefit Rating: High
-  Market Penetration: 1% - 5%
+  Market Penetration: 1% to 5%
   Maturity: Emerging
   Definition:
   - 1つ以上の物理的タスクを自律的に実行するように設計されたAI搭載マシン。
@@ -690,7 +690,7 @@ Technologies:
 
 - Title: Generative AI
   Benefit Rating: Transformational
-  Market Penetration: 1% - 5%
+  Market Penetration: 1% to 5%
   Maturity: Adolescent
   Definition:
   - コンテンツ、戦略、設計、方法の新しいバージョンを作成するために、オリジナルのソースコンテンツの大規模なリポジトリを使用します。
@@ -730,7 +730,7 @@ Technologies:
 
 - Title: Synthetic Data
   Benefit Rating: High
-  Market Penetration: 1% - 5%
+  Market Penetration: 1% to 5%
   Maturity: Emerging
   Definition:
   - 実データのプロキシとして使用される人工的に生成されたデータ。
@@ -770,7 +770,7 @@ Technologies:
 
 - Title: Edge AI
   Benefit Rating: High
-  Market Penetration: 20% - 50%
+  Market Penetration: 20% to 50%
   Maturity: Adolescent
   Definition:
   - 非IT製品、IoTエンドポイント、ゲートウェイ、エッジサーバーに組み込まれたAI技術の使用。
@@ -809,7 +809,7 @@ Technologies:
 
 - Title: ModelOps
   Benefit Rating: High
-  Market Penetration: 1% - 5%
+  Market Penetration: 1% to 5%
   Maturity: Emerging
   Definition:
   - 主に、様々な意思決定モデルのエンドツーエンドのガバナンスとライフサイクル管理に焦点を当てる。
@@ -853,7 +853,7 @@ Technologies:
 
 - Title: Knowledge Graphs
   Benefit Rating: High
-  Market Penetration: 5% - 20%
+  Market Penetration: 5% to 20%
   Maturity: Adolescent
   Definition:
   - 物理世界とデジタル世界の機械可読表現。
@@ -892,7 +892,7 @@ Technologies:
 
 - Title: AI Maker and Teaching Kits
   Benefit Rating: High
-  Market Penetration: 20% - 50%
+  Market Penetration: 20% to 50%
   Maturity: Early mainstream
   Definition:
   - データサイエンス・プラットフォームと分析ライブラリを抽象化したアプリケーションとソフトウェア開発キット（SDK）。
@@ -1017,7 +1017,7 @@ Technologies:
 
 - Title: Intelligent Applications
   Benefit Rating: Transformational
-  Market Penetration: 5% - 20%
+  Market Penetration: 5% to 20%
   Maturity: Adolescent
   Definition:
   - インテリジェント・アプリケーションは、学習された適応を用いて自律的に対応する。
