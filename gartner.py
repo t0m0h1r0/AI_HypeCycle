@@ -27,15 +27,15 @@ class TextProcessor:
         sections = []
         section_lines = []
 
-        for line in lines:
+        for i, line in enumerate(lines):
             if line.startswith("Analysis By"):
                 if section_lines:
-                    sections.append('\n'.join(section_lines[:-2]) + '\n')
-                    section_lines = []
+                    sections.append('\n'.join(section_lines[:-1]) + '\n')
+                section_lines = [lines[i - 1]] if i > 0 else []
             section_lines.append(line)
 
         if section_lines:
-            sections.append('\n'.join(section_lines[:-2]) + '\n')
+            sections.append('\n'.join(section_lines) + '\n')
 
         return sections
 

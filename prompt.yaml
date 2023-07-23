@@ -15,7 +15,7 @@ YAML中で技術名及びその略語はTitleのみに記載されます。
 YAMLのMarket Penetrationには、"< 1%"、"1% - 5%"、"> 5%"、といった数字や記号のみで記述してください。冗文章による長な説明は不要です。
 YAMLのMarket Penetrationでは記述をダブルクォートで囲ってください。
 YAMLのMarket Penetration以外では数式を使いません。
-YAMLのDefinition、Importance、Business Impact、Drivers、Obstacles、及びRecommendationsの文章は日本語で記載してください。
+YAMLのDefinition、Importance、Business Impact、Drivers、Obstacles、及びRecommendationsの文章は英語で記載してください。
 YAMLのDefinition、Importance、Business Impact、Drivers、Obstacles、及びRecommendationsのリストは3段以下にしてください。4段以上は多すぎます。
 YAMLのDefinition、Importance、Business Impact、Drivers、Obstacles、及びRecommendationsのリストは3段以下ならば多い方が望ましいです。
 YAMLのDefinition、Importance、Business Impact、Drivers、Obstacles、及びRecommendationsのリストは1段に長い文章を記載するよりも、複数段に分割して簡潔に記述するのが望ましいです。
