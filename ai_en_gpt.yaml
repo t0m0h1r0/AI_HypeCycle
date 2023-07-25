@@ -33,7 +33,7 @@ Technologies:
     - Latent AI
     - Playtika
     - Vanti
-Technologies:
+
 - Title: Prompt Engineering
   Benefit Rating: High
   Market Penetration: "1% - 5%"
@@ -70,7 +70,7 @@ Technologies:
     - PromptBase
     - Prompt Flow
     - PromptLayer
-Technologies:
+
 - Title: First-Principles AI
   Benefit Rating: Transformational
   Market Penetration: "1% - 5%"
@@ -105,7 +105,7 @@ Technologies:
     - MathWorks
     - NNAISENSE
     - NVIDIA
-Technologies:
+
 - Title: Multiagent Systems
   Benefit Rating: High
   Market Penetration: "< 1%"
@@ -140,7 +140,7 @@ Technologies:
     - FLAME GPU
     - MathWorks
     - The AnyLogic Company
-Technologies:
+
 - Title: AI Engineering
   Benefit Rating: High
   Market Penetration: "1% - 5%"
@@ -179,7 +179,7 @@ Technologies:
     - IBM
     - Iguazio
     - Microsoft
-Technologies:
+
 - Title: AI Simulation
   Benefit Rating: High
   Market Penetration: "1% - 5%"
@@ -222,7 +222,7 @@ Technologies:
     - Rockwell Automation
     - The AnyLogic Company
     - Unity
-Technologies:
+
 - Title: Artificial General Intelligence
   Benefit Rating: Transformational
   Market Penetration: "< 1%"
@@ -261,7 +261,7 @@ Technologies:
     - NNAISENSE
     - OpenAI
     - Vicarious
-Technologies:
+
 - Title: Causal AI
   Benefit Rating: High
   Market Penetration: "1% to 5%"
@@ -301,7 +301,7 @@ Technologies:
     - Qualcomm
     - SCALNYX
     - Xplain Data
-Technologies:
+
 - Title: Decision Intelligence
   Benefit Rating: Transformational
   Market Penetration: "5% to 20%"
@@ -336,7 +336,7 @@ Technologies:
     - N/A
     - N/A
     - N/A
-Technologies:
+
 - Title: Composite AI
   Benefit Rating: Transformational
   Market Penetration: "5% to 20%"
@@ -374,7 +374,7 @@ Technologies:
     - Indico Data
     - Peak
     - SAS
-Technologies:
+
 - Title: Data-Centric AI
   Benefit Rating: High
   Market Penetration: "1% - 5%"
@@ -414,7 +414,7 @@ Technologies:
     - Scale AI
     - Snorkel AI
     - YData
-Technologies:
+
 - Title: "Operational AI Systems"
   Benefit Rating: "High"
   Market Penetration: "1% - 5%"
@@ -449,7 +449,7 @@ Technologies:
     - "DataRobot"
     - "Domino Data Lab"
     - "Google"
-Technologies:
+
 - Title: AI TRiSM
   Benefit Rating: High
   Market Penetration: "5% to 20%"
@@ -489,7 +489,7 @@ Technologies:
     - Protopia AI
     - SolasAI
     - TrojAI
-Technologies:
+
 - Title: Neuromorphic Computing
   Benefit Rating: Transformational
   Market Penetration: "< 1%"
@@ -526,7 +526,7 @@ Technologies:
     - Intel
     - Natural Intelligence
     - SynSense
-Technologies:
+
 - Title: Responsible AI
   Benefit Rating: Transformational
   Market Penetration: "5% to 20%"
@@ -566,7 +566,7 @@ Technologies:
     - Responsible AI Institute
     - TAZI.AI
     - TruEra
-Technologies:
+
 - Title: Smart Robots
   Benefit Rating: High
   Market Penetration: "1% - 5%"
@@ -608,7 +608,7 @@ Technologies:
     - Symbotic
     - Temi
     - UBTECH
-Technologies:
+
 - Title: Foundation Models
   Benefit Rating: Transformational
   Market Penetration: "5% to 20%"
@@ -652,7 +652,7 @@ Technologies:
     - Microsoft
     - OpenAI
     - Stability AI
-Technologies:
+
 - Title: Generative AI
   Benefit Rating: Transformational
   Market Penetration: "1% - 5%"
@@ -692,7 +692,7 @@ Technologies:
     - Microsoft
     - OpenAI
     - Schrödinger
-Technologies:
+
 - Title: Synthetic Data
   Benefit Rating: High
   Market Penetration: "1% - 5%"
@@ -731,7 +731,7 @@ Technologies:
     - Rendered.ai
     - Tonic.ai
     - YData
-Technologies:
+
 - Title: Edge AI
   Benefit Rating: High
   Market Penetration: "20% - 50%"
@@ -770,7 +770,7 @@ Technologies:
     - Modzy
     - Octonion Group
     - Palantir
-Technologies:
+
 - Title: ModelOps
   Benefit Rating: High
   Market Penetration: "1% - 5%"
@@ -809,7 +809,7 @@ Technologies:
     - Subex
     - Valohai
     - Verta
-Technologies:
+
 - Title: Knowledge Graphs
   Benefit Rating: High
   Market Penetration: "5% to 20%"
@@ -846,7 +846,7 @@ Technologies:
     - TigerGraph
     - TopQuadrant
     - Trace Labs
-Technologies:
+
 - Title: AI Maker and Teaching Kits
   Benefit Rating: High
   Market Penetration: "20% - 50%"
@@ -884,7 +884,7 @@ Technologies:
     - Pantech Prolabs India
     - Rotrics
     - Samsung Electronics
-Technologies:
+
 - Title: Autonomous Vehicles
   Benefit Rating: Transformational
   Market Penetration: "< 1%"
@@ -922,7 +922,7 @@ Technologies:
     - Pony.ai
     - Waymo
     - Zoox
-Technologies:
+
 - Title: Cloud AI Services
   Benefit Rating: High
   Market Penetration: "20% - 50%"
@@ -962,7 +962,7 @@ Technologies:
     - IBM
     - Microsoft
     - Tencent
-Technologies:
+
 - Title: Intelligent Applications
   Benefit Rating: Transformational
   Market Penetration: "5% to 20%"
@@ -1004,7 +1004,7 @@ Technologies:
     - Sievo
     - SugarCRM
     - Trust Science
-Technologies:
+
 - Title: Data Labeling and Annotation
   Benefit Rating: High
   Market Penetration: "5% to 20%"
@@ -1043,7 +1043,7 @@ Technologies:
     - Mindy Support
     - Scale AI
     - Snorkel AI
-Technologies:
+
 - Title: Computer Vision
   Benefit Rating: Transformational
   Market Penetration: "20% to 50%"
