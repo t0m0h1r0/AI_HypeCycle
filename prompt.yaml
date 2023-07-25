@@ -22,6 +22,7 @@ YAMLのDefinition、Importance、Business Impact、Drivers、Obstacles、及びR
 YAMLのDefinition、Importance、Business Impact、Drivers、Obstacles、及びRecommendationsの文章が2文以上になる場合には、段を分けるのが望ましいです。
 YAMLのDefinition、Importance、Business Impact、Drivers、Obstacles、及びRecommendationsの文章中に技術名(技術名の訳語や略号も含む)の記載があると冗長で可読性が損なわれるので、極力省略してください。
 YAMLのDefinition、Importance、Business Impact、Drivers、Obstacles、及びRecommendationsの文章はリード文形式で簡潔に記述してください。
+YAMLのDefinition、Importance、Business Impact、Drivers、Obstacles、及びRecommendationsの文章は1文あたり30単語程度が望ましいです。
 YAMLのDefinition、Importance、Business Impact、Drivers、Obstacles、及びRecommendationsの文章ではYAML構造を破壊する恐れがあるためコロン(「：」も)の使用は避けて要約や作文をしてください。
 '''
 
